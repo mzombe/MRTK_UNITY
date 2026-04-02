@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bre6PlvTuEY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\ApiClassificacaoYolo\\ApiClassificacaoYolo\\ApiClassificacaoYolo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.23.0\\microsoft.ml.onnxruntime.1.23.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.23.0\\microsoft.ml.onnxruntime.managed.1.23.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\scalar.aspnetcore\\2.13.18\\scalar.aspnetcore.2.13.18.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\yolodotnet\\4.2.0\\yolodotnet.4.2.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\yolodotnet.executionprovider.cpu\\1.1.0\\yolodotnet.executionprovider.cpu.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

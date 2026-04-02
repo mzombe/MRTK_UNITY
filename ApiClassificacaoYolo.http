@@ -1,0 +1,6 @@
+@ApiClassificacaoYolo_HostAddress = http://localhost:5245
+
+GET {{ApiClassificacaoYolo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
